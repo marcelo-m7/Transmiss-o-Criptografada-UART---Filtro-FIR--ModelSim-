@@ -123,3 +123,7 @@ Forma de onda confirma:
 ## 7. Conclusão
 
 O sistema desenvolvido demonstra a integração de **criptografia, comunicação serial** e **processamento digital de sinal** num FPGA, respeitando os requisitos do trabalho final. A arquitetura modular facilita futuras alterações (novo filtro, outro algoritmo de cifra, etc.).
+
+---
+
+**[Repositório GitHub](https://github.com/marcelo-m7/Transmiss-o-Criptografada-UART---Filtro-FIR--ModelSim-)**
